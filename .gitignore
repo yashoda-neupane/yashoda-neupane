@@ -1,0 +1,40 @@
+# VS Code settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built files and directories
+dist/
+node_modules/
+*.exe
+*.out
+*.app
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# IDE-specific files
+.idea/
+*.swp
+*.swo
