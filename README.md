@@ -32,25 +32,31 @@ Let’s connect and collaborate on something amazing! 🚀
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=supabase"/>](https://postgresql.org/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-   
+
 ---
 
 # 🎓 Academic Background
 
-<div style="display: flex; flex-direction: column; gap: 25px;">
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://humber.ca/">
+    <img src="assets/humber_logo.png" alt="Humber College" height="50px" width="70px" style="margin-right: 20px; object-fit: contain; background: white; padding: 5px; border-radius: 4px; max-width: 70px; max-height: 50px;">
+  </a>
+  <div>
+    <strong>Information Technology Solutions</strong><br>
+    <a href="https://humber.ca/">Humber College</a> • Oct 2024 - Mar 2025<br>
+    📍 Toronto, Canada
+  </div>
+</div> 
 
-[<img align="left" height="90px" width="130px" alt="Humber College" style="margin-right: 15px;" src="https://github.com/your-username/your-repo/raw/main/assets/humber_logo.png?raw=true">](https://humber.ca/)
-**Information Technology Solutions**  
-[**Humber College**](https://humber.ca/) • Oct 2024 - Mar 2025  
-📍 Toronto, Canada  
-
-<div style="clear: both;"></div>
-
-[<img align="left" height="90px" width="150px" alt="SVNIT" style="margin-right: 15px;" src="https://github.com/your-username/your-repo/raw/main/assets/NIT_Surat.png?raw=true">](https://www.svnit.ac.in/)
-**Bachelor of Technology (Electronics and Communication Engineering)**  
-[**SVNIT - Sardar Vallabhbhai National Institute of Technology**](https://www.svnit.ac.in/) • 2015 - 2019  
-📍 Surat, India  
-
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://www.svnit.ac.in/">
+    <img src="assets/NIT_Surat.png" alt="SVNIT" height="50px" width="80px" style="margin-right: 20px; object-fit: contain; padding: 2px; background: white; max-width: 80px; max-height: 50px;">
+  </a>
+  <div>
+    <strong>Bachelor of Technology (Electronics and Communication Engineering)</strong><br>
+    <a href="https://www.svnit.ac.in/">Sardar Vallabhbhai National Institute of Technology </a> <br>
+    📍 Surat, India
+  </div>
 </div>
 <br>
 
