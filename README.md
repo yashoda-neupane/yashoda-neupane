@@ -11,6 +11,7 @@
 As a dedicated Software Engineer with 7+ years of experience in full-stack development, I specialize in <b>Java, Spring Boot,Microservices, and RESTful APIs</b>, along with expertise in <b>Python, C#, .NET, Angular</b>  My goal is to apply my diverse IT experience to design scalable, maintainable software solutions that solve real-world challenges.
 Throughout my career, I’ve built secure and scalable web and mobile applications for finance sector , optimized workflow automation, and managed robust data systems. I thrive on learning new technologies and contributing to high-impact projects.
 Let’s connect and collaborate on something amazing! 🚀
+
 <br>
 
 ## Language and Tools
@@ -33,13 +34,13 @@ Let’s connect and collaborate on something amazing! 🚀
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=supabase"/>](https://postgresql.org/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 
----
+<br>
 
-# 🎓 Academic Background
+## 🎓 Academic Background
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <a href="https://humber.ca/">
-    <img src="assets/humber_logo.png" alt="Humber College" height="50px" width="70px" style="margin-right: 20px; object-fit: contain; background: white; padding: 5px; border-radius: 4px; max-width: 70px; max-height: 50px;">
+    <img src="assets/humber_logo.png" alt="Humber College" height="70px" width="90px" style="margin-right: 20px; object-fit: contain; background: white; padding: 5px; border-radius: 4px; max-width: 70px; max-height: 50px;">
   </a>
   <div>
     <strong>Information Technology Solutions</strong><br>
@@ -47,10 +48,11 @@ Let’s connect and collaborate on something amazing! 🚀
     📍 Toronto, Canada
   </div>
 </div> 
+<br>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <a href="https://www.svnit.ac.in/">
-    <img src="assets/NIT_Surat.png" alt="SVNIT" height="50px" width="80px" style="margin-right: 20px; object-fit: contain; padding: 2px; background: white; max-width: 80px; max-height: 50px;">
+    <img src="assets/NIT_Surat.png" alt="SVNIT" height="70px" width="90px" style="margin-right: 20px; object-fit: contain; padding: 2px; background: white; max-width: 80px; max-height: 50px;">
   </a>
   <div>
     <strong>Bachelor of Technology (Electronics and Communication Engineering)</strong><br>
@@ -63,37 +65,33 @@ Let’s connect and collaborate on something amazing! 🚀
 ## 💼 Professional Experience
 
 ### 🔹 **Senior Software Engineer**  
-➤ **Beetech Solution Pvt Ltd**  
-📅 September 2022 - May 2024  
-📍 Remote/On-site  
+  ➤ **Beetech Solution Pvt Ltd**  
+  📅 September 2022 - May 2024  
+  📍 Remote/On-site  
 
----
 
 ### 🔹 **Senior Software Engineer**  
-➤ **Capgemini HK Ltd**  
-📅 April 2021 - July 2022  
-📍 Hong Kong  
+  ➤ **Capgemini HK Ltd**  
+  📅 April 2021 - July 2022  
+  📍 Hong Kong  
 
----
 
 ### 🔹 **Software Engineer**  
-➤ **Capgemini HK Ltd**  
-📅 April 2017 - July 2019  
-📍 Hong Kong  
+  ➤ **Capgemini HK Ltd**  
+  📅 April 2017 - July 2019  
+  📍 Hong Kong  
 
----
 
 ### 📱 **Mobile Application Developer**  
-➤ **Pactera HK Ltd**  
-📅 May 2015 - June 2016  
-📍 Hong Kong  
+  ➤ **Pactera HK Ltd**  
+  📅 May 2015 - June 2016  
+  📍 Hong Kong  
 
----
 
 ### 🔸 **Associate Software Engineer**  
-➤ **Kony IT Services Ltd (now Temenos)**  
-📅 July 2013 - January 2015  
-📍 [Hyderabad, India]  
+  ➤ **Kony IT Services Ltd (now Temenos)**  
+  📅 July 2013 - January 2015  
+  📍 [Hyderabad, India]  
 
 <br>
 
@@ -110,7 +108,7 @@ Let’s connect and collaborate on something amazing! 🚀
   <a href="https://linkedin.com/in/your-profile">
     <img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
-  [Yashoda Neupane](https://www.linkedin.com/in/yashoda-neupane/)
+  [Yashoda Neupane] (https://www.linkedin.com/in/yashoda-neupane/)
 </p>
 
 
