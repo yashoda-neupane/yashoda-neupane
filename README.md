@@ -32,20 +32,26 @@ Let’s connect and collaborate on something amazing! 🚀
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=supabase"/>](https://postgresql.org/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+   
+---
 
-## Academic Background:
+# 🎓 Academic Background
 
-[<img align="left" height="90px" width="130px" alt="Humber logo" src="./assets/humber-logo.png">](https://humber.ca/)
-**Information Technology Solutions** \
-[**HUMBER**](https://humber.ca/)  • Oct 2024 - Mar 2025
+<div style="display: flex; flex-direction: column; gap: 25px;">
 
-<!-- Add TWO line breaks below to prevent overlap -->
-<br clear="left"/>  <!-- This forces content below the floated image -->
+[<img align="left" height="90px" width="130px" alt="Humber College" style="margin-right: 15px;" src="https://github.com/your-username/your-repo/raw/main/assets/humber_logo.png?raw=true">](https://humber.ca/)
+**Information Technology Solutions**  
+[**Humber College**](https://humber.ca/) • Oct 2024 - Mar 2025  
+📍 Toronto, Canada  
 
-[<img align="left" height="90px" width="150px" alt="svnit logo" src="./assets/NIT_Surat.png">](https://www.svnit.ac.in/)
-**Bachelor Of Technology (Electronics and Communication Engineering)**   
-[**SVNIT**](https://www.svnit.ac.in/)  
+<div style="clear: both;"></div>
 
+[<img align="left" height="90px" width="150px" alt="SVNIT" style="margin-right: 15px;" src="https://github.com/your-username/your-repo/raw/main/assets/NIT_Surat.png?raw=true">](https://www.svnit.ac.in/)
+**Bachelor of Technology (Electronics and Communication Engineering)**  
+[**SVNIT - Sardar Vallabhbhai National Institute of Technology**](https://www.svnit.ac.in/) • 2015 - 2019  
+📍 Surat, India  
+
+</div>
 <br>
 
 ## 💼 Professional Experience
