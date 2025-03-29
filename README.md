@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00008B&size=39&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Yashoda+Neupane;I'm+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">"Programming is the art of telling another human being what one wants the computer to do."</h3>
-<h4 align="center">- Donald Ervin Knuth -</h4>
+<h4 align="center">- Donald Knuth -</h4>
 
 <br>
 
