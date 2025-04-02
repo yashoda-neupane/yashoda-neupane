@@ -8,8 +8,8 @@
 
 ##  About Me
 👋 Hello! I’m <b>Yashoda Neupane.</b>
-As a dedicated Software Engineer with 7+ years of experience in full-stack development, I specialize in <b>Java, Spring Boot,Microservices, and RESTful APIs</b>, along with expertise in <b>Python, C#, .NET, Angular</b>  My goal is to apply my diverse IT experience to design scalable, maintainable software solutions that solve real-world challenges.
-Throughout my career, I’ve built secure and scalable web and mobile applications for finance sector , optimized workflow automation, and managed robust data systems. I thrive on learning new technologies and contributing to high-impact projects.
+As a dedicated Software Engineer with 7+ years of experience in full-stack development, I specialize in <b>Java, Spring Boot,Microservices, and RESTful APIs</b>, along with expertise in <b>Python, C#, .NET, Angular</b>.  My goal is to apply my diverse IT experience to design scalable, maintainable software solutions that solve real-world challenges.
+Throughout my career, I’ve built secure and scalable web and mobile applications for startups and financial services, optimized workflow automation, and managed robust data systems. I thrive on learning new technologies and contributing to high-impact projects.
 Let’s connect and collaborate on something amazing! 🚀
 
 <br>
